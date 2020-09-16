@@ -1,2 +1,2 @@
 # AirFrance-Passenger-Optimization-
-Project carried out over the course of 6 weeks in a group of 6. Given the passenger rosters, including passenger type, weight, groups a system was designed to optimise the placement of these passengers. 
+Project carried out over the course of 6 weeks in a group of 6. Given the passenger rosters, including passenger type, weight, groups a system was designed to optimise the placement of these passengers. The centre of mass of the airplane is required to be located within a small rectangle at the centre of the aircraft and the objective is to maximise passenger satisfaction by placing groups close to each other. The optimisation was done using Julia as a programming language and Gurobi as the optimizer. 
